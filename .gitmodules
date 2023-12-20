@@ -1030,3 +1030,78 @@
 [submodule "themes/kurozora"]
 	path = themes/kurozora
 	url = https://github.com/dracula/kurozora.git
+[submodule "themes/onecommander"]
+	path = themes/onecommander
+	url = https://github.com/dracula/onecommander.git
+[submodule "themes/protonmail"]
+	path = themes/protonmail
+	url = https://github.com/dracula/protonmail.git
+[submodule "themes/serum"]
+	path = themes/serum
+	url = https://github.com/dracula/serum.git
+[submodule "themes/rime"]
+	path = themes/rime
+	url = https://github.com/dracula/rime.git
+[submodule "themes/wob"]
+	path = themes/wob
+	url = https://github.com/dracula/wob.git
+[submodule "themes/winamp"]
+	path = themes/winamp
+	url = https://github.com/dracula/winamp.git
+[submodule "themes/mantine"]
+	path = themes/mantine
+	url = https://github.com/dracula/mantine.git
+[submodule "themes/gh-dash"]
+	path = themes/gh-dash
+	url = https://github.com/dracula/gh-dash.git
+[submodule "themes/sniffnet"]
+	path = themes/sniffnet
+	url = https://github.com/dracula/sniffnet.git
+[submodule "themes/anne-pro-2"]
+	path = themes/anne-pro-2
+	url = https://github.com/dracula/anne-pro-2.git
+[submodule "themes/notesnook"]
+	path = themes/notesnook
+	url = https://github.com/dracula/notesnook.git
+[submodule "themes/lcd-smartie"]
+	path = themes/lcd-smartie
+	url = https://github.com/dracula/lcd-smartie.git
+[submodule "themes/tumblr"]
+	path = themes/tumblr
+	url = https://github.com/dracula/tumblr.git
+[submodule "themes/labplot"]
+	path = themes/labplot
+	url = https://github.com/dracula/labplot.git
+[submodule "themes/rio-terminal"]
+	path = themes/rio-terminal
+	url = https://github.com/dracula/rio-terminal.git
+[submodule "themes/polybar"]
+	path = themes/polybar
+	url = https://github.com/dracula/polybar.git
+[submodule "themes/thumb-key"]
+	path = themes/thumb-key
+	url = https://github.com/dracula/thumb-key.git
+[submodule "themes/google-calendar"]
+	path = themes/google-calendar
+	url = https://github.com/dracula/google-calendar.git
+[submodule "themes/smartgit"]
+	path = themes/smartgit
+	url = https://github.com/dracula/smartgit.git
+[submodule "themes/fontforge"]
+	path = themes/fontforge
+	url = https://github.com/dracula/fontforge.git
+[submodule "themes/chatterino"]
+	path = themes/chatterino
+	url = https://github.com/dracula/chatterino.git
+[submodule "themes/gkrellm"]
+	path = themes/gkrellm
+	url = https://github.com/dracula/gkrellm.git
+[submodule "themes/adventofcode"]
+	path = themes/adventofcode
+	url = https://github.com/dracula/adventofcode.git
+[submodule "themes/papirus-folders"]
+	path = themes/papirus-folders
+	url = https://github.com/dracula/papirus-folders.git
+[submodule "themes/tut"]
+	path = themes/tut
+	url = https://github.com/dracula/tut.git
